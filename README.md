@@ -4,6 +4,10 @@
 
 DrugSentinel analyzes medication reviews and converts unstructured text into structured sentiment insights. The system identifies **overall sentiment, aspect-level sentiment, confidence scores, and model predictions** through an interactive web application and FastAPI backend.
 
+### 🚀 Live Demo
+
+[**Open DrugSentinel**](https://drugsentinel-573539539303.us-central1.run.app)
+
 ---
 
 ## 📌 Overview
@@ -402,7 +406,7 @@ DrugSentinel/
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ashit0907/DrugSentinel.git
 cd DrugSentinel
 ```
 
